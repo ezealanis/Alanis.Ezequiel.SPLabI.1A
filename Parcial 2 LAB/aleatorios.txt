@@ -1,0 +1,10 @@
+
+  #define <time.h>  // incluir la libreria time.h
+
+ srand (time(NULL));  // esta linea va al inicio de main
+    int aleatorio;
+   
+    aleatorio = rand()%(71)+50; // esta linea va en la funcion que asigna el tiempo
+     
+  
+

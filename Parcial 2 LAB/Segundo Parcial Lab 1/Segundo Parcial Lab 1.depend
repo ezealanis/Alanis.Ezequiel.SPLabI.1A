@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1606308730 source:c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606307417 c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\linkedlist.h
+
+1606307146 c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\bicicleta.h
+	"LinkedList.h"
+
+1606310628 source:c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<time.h>
+	"bicicleta.h"
+	"controller.h"
+
+1606307417 c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\controller.h
+
+1606310736 source:c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+
+1606311818 source:c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	<string.h>
+	"Controller.h"
+
+1606305928 c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\validations.h
+
+1606308020 source:c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"Controller.h"
+	"parser.h"
+	<string.h>
+
+1606307417 c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\parser.h
+
+1606305928 source:c:\users\ezequ\desktop\parcial 2 lab\segundo parcial lab 1\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validations.h"
+
